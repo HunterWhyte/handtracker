@@ -1,0 +1,653 @@
+***** Hand History For Game 15883790812599yyoho3ti5c *****
+20/40 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:24:29 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (290)
+Seat 2: Hero (1210)
+Hero posts small blind (20)
+Player2 posts big blind (40)
+** Dealing down cards **
+Dealt to Hero [ Ad, 3d ]
+Hero raises 60 to 80
+Player2 raises 250 to 290
+Player2 is all-In.
+Hero calls (210)
+** Dealing Flop ** :  [ 5d, Th, Qd ]
+** Dealing Turn ** :  [ 3s ]
+** Dealing River ** :  [ 7d ]
+Creating Main Pot with  580 with Player2
+** Summary **
+Main Pot: 580
+Board: [ 5d, Th, Qd, 3s, 7d ]
+Player2 balance 0, lost 290[ 7h, 7c ] [ three of a kind, sevens -- Qd,Th,7h,7c,7d ]
+Hero balance 0, bet 290, collected 580, net +290[ Ad, 3d ] [ a flush, ace high -- Ad,Qd,7d,5d,3d ]
+
+
+***** Hand History For Game 1588379070401lbehcw6khtr *****
+20/40 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:24:20 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (250)
+Seat 2: Hero (1250)
+Player1 posts small blind (20)
+Hero posts big blind (40)
+** Dealing down cards **
+Dealt to Hero [ Jd, 2d ]
+Player1 raises 230 to 250
+Player1 is all-In.
+Hero folds
+Creating Main Pot with  80 with Player1
+** Summary **
+Main Pot: 80
+Player1 balance 290, bet 250, collected 290, net +40
+Hero balance 1210, lost 40 (folded)
+
+
+***** Hand History For Game 15883790563224xge4lu9x9w *****
+20/40 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:24:06 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (230)
+Seat 2: Hero (1270)
+Hero posts small blind (20)
+Player2 posts big blind (40)
+** Dealing down cards **
+Dealt to Hero [ 5d, Jc ]
+Hero folds
+** Summary **
+Main Pot: 40
+Player2 balance 250, bet 40, collected 60, net +20
+Hero balance 1250, lost 20 (folded)
+
+
+***** Hand History For Game 15883790425913rlkeatbkhh *****
+20/40 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:23:28 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (865)
+Seat 2: Hero (635)
+Player1 posts small blind (20)
+Hero posts big blind (40)
+** Dealing down cards **
+Dealt to Hero [ Kd, 7d ]
+Player1 raises 100 to 120
+Hero calls (80)
+** Dealing Flop ** :  [ Kh, 6s, Td ]
+Hero checks
+Player1 bets (120)
+Hero calls (120)
+** Dealing Turn ** :  [ 4c ]
+Hero checks
+Player1 checks
+** Dealing River ** :  [ 3s ]
+Hero checks
+Player1 bets (360)
+Hero raises 395 to 395
+Hero is all-In.
+Player1 calls (35)
+Creating Main Pot with  1270 with Hero
+** Summary **
+Main Pot: 1270
+Board: [ Kh, 6s, Td, 4c, 3s ]
+Player1 balance 230, lost 635[ 8s, Ts ] [ a pair of tens -- Kh,Ts,Td,8s,6s ]
+Hero balance 1270, bet 635, collected 1270, net +635[ Kd, 7d ] [ a pair of kings -- Kd,Kh,Td,7d,6s ]
+
+
+***** Hand History For Game 1588379004537t3h5ojy6y6k *****
+20/40 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:23:04 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (1025)
+Seat 2: Hero (475)
+Hero posts small blind (20)
+Player2 posts big blind (40)
+** Dealing down cards **
+Dealt to Hero [ Qh, Qd ]
+Hero raises 60 to 80
+Player2 calls (40)
+** Dealing Flop ** :  [ 6h, 3c, 5h ]
+Player2 checks
+Hero bets (80)
+Player2 calls (80)
+** Dealing Turn ** :  [ Td ]
+Player2 checks
+Hero bets (160)
+Player2 folds
+** Summary **
+Main Pot: 320
+Board: [ 6h, 3c, 5h, Td ]
+Player2 balance 865, lost 160 (folded)
+Hero balance 635, bet 320, collected 480, net +160
+
+
+***** Hand History For Game 15883789803479i3k0hlcpx *****
+20/40 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:22:50 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (985)
+Seat 2: Hero (515)
+Player1 posts small blind (20)
+Hero posts big blind (40)
+** Dealing down cards **
+Dealt to Hero [ 8h, 2c ]
+Player1 calls (20)
+Hero checks
+** Dealing Flop ** :  [ Kd, 7d, Ah ]
+Hero checks
+Player1 checks
+** Dealing Turn ** :  [ Td ]
+Hero checks
+Player1 bets (40)
+Hero folds
+** Summary **
+Main Pot: 80
+Board: [ Kd, 7d, Ah, Td ]
+Player1 balance 1025, bet 80, collected 120, net +40
+Hero balance 475, lost 40 (folded)
+
+
+***** Hand History For Game 1588378966432ovcyi7rlglh *****
+20/40 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:22:43 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (965)
+Seat 2: Hero (535)
+Hero posts small blind (20)
+Player2 posts big blind (40)
+** Dealing down cards **
+Dealt to Hero [ 3s, Jd ]
+Hero folds
+** Summary **
+Main Pot: 40
+Player2 balance 985, bet 40, collected 60, net +20
+Hero balance 515, lost 20 (folded)
+
+
+***** Hand History For Game 1588378959201iee4cvhdz4d *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:22:30 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (980)
+Seat 2: Hero (520)
+Player1 posts small blind (15)
+Hero posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ 4s, 7h ]
+Player1 folds
+** Summary **
+Main Pot: 30
+Player1 balance 965, lost 15 (folded)
+Hero balance 535, bet 30, collected 45, net +15
+
+
+***** Hand History For Game 1588378946710rj4slmv5q4n *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:22:25 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (965)
+Seat 2: Hero (535)
+Hero posts small blind (15)
+Player2 posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ 4h, 2s ]
+Hero folds
+** Summary **
+Main Pot: 30
+Player2 balance 980, bet 30, collected 45, net +15
+Hero balance 520, lost 15 (folded)
+
+
+***** Hand History For Game 15883789410706jz2kmqkf12 *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:21:59 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (905)
+Seat 2: Hero (595)
+Player1 posts small blind (15)
+Hero posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ 3s, 4c ]
+Player1 calls (15)
+Hero checks
+** Dealing Flop ** :  [ 5s, Tc, 5h ]
+Hero checks
+Player1 checks
+** Dealing Turn ** :  [ As ]
+Hero checks
+Player1 bets (30)
+Hero calls (30)
+** Dealing River ** :  [ Ad ]
+Hero checks
+Player1 bets (285)
+Hero folds
+** Summary **
+Main Pot: 120
+Board: [ 5s, Tc, 5h, As, Ad ]
+Player1 balance 965, bet 345, collected 405, net +60
+Hero balance 535, lost 60 (folded)
+
+
+***** Hand History For Game 158837891602971rqcqspx9p *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:21:53 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (890)
+Seat 2: Hero (610)
+Hero posts small blind (15)
+Player2 posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ Ts, 7c ]
+Hero folds
+** Summary **
+Main Pot: 30
+Player2 balance 905, bet 30, collected 45, net +15
+Hero balance 595, lost 15 (folded)
+
+
+***** Hand History For Game 1588378910145bndpqxz8yae *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:21:45 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (860)
+Seat 2: Hero (640)
+Player1 posts small blind (15)
+Hero posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ 7h, 6c ]
+Player1 raises 45 to 60
+Hero folds
+** Summary **
+Main Pot: 60
+Player1 balance 890, bet 60, collected 90, net +30
+Hero balance 610, lost 30 (folded)
+
+
+***** Hand History For Game 1588378901529myw9dt0dq3b *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:21:30 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (890)
+Seat 2: Hero (610)
+Hero posts small blind (15)
+Player2 posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ As, 8d ]
+Hero raises 595 to 610
+Hero is all-In.
+Player2 folds
+Creating Main Pot with  60 with Hero
+** Summary **
+Main Pot: 60
+Player2 balance 860, lost 30 (folded)
+Hero balance 640, bet 610, collected 640, net +30
+
+
+***** Hand History For Game 1588378886431hvprcj5288h *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:20:45 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (800)
+Seat 2: Hero (700)
+Player1 posts small blind (15)
+Hero posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ Jh, Td ]
+Player1 calls (15)
+Hero checks
+** Dealing Flop ** :  [ 4h, Jc, Ad ]
+Hero bets (60)
+Player1 calls (60)
+** Dealing Turn ** :  [ Qc ]
+Hero checks
+Player1 checks
+** Dealing River ** :  [ 9s ]
+Hero checks
+Player1 bets (150)
+Hero folds
+** Summary **
+Main Pot: 180
+Board: [ 4h, Jc, Ad, Qc, 9s ]
+Player1 balance 890, bet 240, collected 330, net +90
+Hero balance 610, lost 90 (folded)
+
+
+***** Hand History For Game 1588378841615r5nsz6rqdv *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:20:39 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (785)
+Seat 2: Hero (715)
+Hero posts small blind (15)
+Player2 posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ 5d, 9c ]
+Hero folds
+** Summary **
+Main Pot: 30
+Player2 balance 800, bet 30, collected 45, net +15
+Hero balance 700, lost 15 (folded)
+
+
+***** Hand History For Game 1588378835610c11169btiw *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:20:32 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (800)
+Seat 2: Hero (700)
+Player1 posts small blind (15)
+Hero posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ Td, 8d ]
+Player1 folds
+** Summary **
+Main Pot: 30
+Player1 balance 785, lost 15 (folded)
+Hero balance 715, bet 30, collected 45, net +15
+
+
+***** Hand History For Game 1588378829053as9ldzf56iw *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:20:06 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (770)
+Seat 2: Hero (730)
+Hero posts small blind (15)
+Player2 posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ Th, 9c ]
+Hero calls (15)
+Player2 checks
+** Dealing Flop ** :  [ 5s, 8h, 8c ]
+Player2 bets (105)
+Hero folds
+** Summary **
+Main Pot: 60
+Board: [ 5s, 8h, 8c ]
+Player2 balance 800, bet 135, collected 165, net +30
+Hero balance 700, lost 30 (folded)
+
+
+***** Hand History For Game 1588378802596acrl8gtykhd *****
+15/30 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:19:50 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (860)
+Seat 2: Hero (640)
+Player1 posts small blind (15)
+Hero posts big blind (30)
+** Dealing down cards **
+Dealt to Hero [ Qs, Kd ]
+Player1 raises 75 to 90
+Hero calls (60)
+** Dealing Flop ** :  [ 3s, 2h, Kh ]
+Hero bets (550)
+Hero is all-In.
+Player1 folds
+Creating Main Pot with  180 with Hero
+** Summary **
+Main Pot: 180
+Board: [ 3s, 2h, Kh ]
+Player1 balance 770, lost 90 (folded)
+Hero balance 730, bet 640, collected 730, net +90
+
+
+***** Hand History For Game 1588378786559118v9yr9788c *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:19:25 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (780)
+Seat 2: Hero (720)
+Hero posts small blind (10)
+Player2 posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 9s, 7s ]
+Hero raises 30 to 40
+Player2 calls (20)
+** Dealing Flop ** :  [ Ah, 2h, Js ]
+Player2 checks
+Hero bets (40)
+Player2 calls (40)
+** Dealing Turn ** :  [ 5d ]
+Player2 bets (700)
+Player2 is all-In.
+Hero folds
+Creating Main Pot with  160 with Player2
+** Summary **
+Main Pot: 160
+Board: [ Ah, 2h, Js, 5d ]
+Player2 balance 860, bet 780, collected 860, net +80
+Hero balance 640, lost 80 (folded)
+
+
+***** Hand History For Game 1588378761841pofje5wj65n *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:18:51 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (860)
+Seat 2: Hero (640)
+Player1 posts small blind (10)
+Hero posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 3h, Qc ]
+Player1 raises 30 to 40
+Hero calls (20)
+** Dealing Flop ** :  [ Qh, 9s, 3d ]
+Hero checks
+Player1 bets (40)
+Hero calls (40)
+** Dealing Turn ** :  [ 5c ]
+Hero checks
+Player1 checks
+** Dealing River ** :  [ Jh ]
+Hero checks
+Player1 checks
+** Summary **
+Main Pot: 160
+Board: [ Qh, 9s, 3d, 5c, Jh ]
+Player1 balance 780, lost 80[ 4d, Ac ] [ high card ace -- Ac,Qh,Jh,9s,5c ]
+Hero balance 720, bet 80, collected 160, net +80[ 3h, Qc ] [ two pairs, queens and threes -- Qc,Qh,Jh,3h,3d ]
+
+
+***** Hand History For Game 1588378727922cn2d0gtwonq *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:18:19 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (980)
+Seat 2: Hero (520)
+Hero posts small blind (10)
+Player2 posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 5s, Ad ]
+Hero raises 30 to 40
+Player2 raises 100 to 120
+Hero calls (80)
+** Dealing Flop ** :  [ 9h, 7d, 2c ]
+Player2 checks
+Hero bets (150)
+Player2 folds
+** Summary **
+Main Pot: 240
+Board: [ 9h, 7d, 2c ]
+Player2 balance 860, lost 120 (folded)
+Hero balance 640, bet 270, collected 390, net +120
+
+
+***** Hand History For Game 1588378695253p127ba45tr *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:18:07 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 2/3
+Seat 1: Player1 (960)
+Seat 2: Hero (540)
+Player1 posts small blind (10)
+Hero posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 3c, Ts ]
+Player1 calls (10)
+Hero checks
+** Dealing Flop ** :  [ Kc, 5s, Qh ]
+Hero checks
+Player1 bets (20)
+Hero folds
+** Summary **
+Main Pot: 40
+Board: [ Kc, 5s, Qh ]
+Player1 balance 980, bet 40, collected 60, net +20
+Hero balance 520, lost 20 (folded)
+
+
+***** Hand History For Game 1588378683346ygcbqn1f2k *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:17:42 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 2/3
+Seat 1: Player2 (1020)
+Seat 2: Hero (480)
+Hero posts small blind (10)
+Player2 posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ Qd, Td ]
+Hero raises 30 to 40
+Player2 raises 40 to 60
+Hero calls (20)
+** Dealing Flop ** :  [ 9h, Qc, 9s ]
+Player2 checks
+Hero bets (90)
+Player2 folds
+** Summary **
+Main Pot: 120
+Board: [ 9h, Qc, 9s ]
+Player2 balance 960, lost 60 (folded)
+Hero balance 540, bet 150, collected 210, net +60
+
+
+***** Hand History For Game 1588378658390c3q0d4371l6 *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:17:14 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 3 is the button
+Total number of players : 3/3
+Seat 1: Player1 (1040)
+Seat 2: Hero (450)
+Seat 3: Player3 (10)
+Player1 posts small blind (10)
+Hero posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ Jh, 2s ]
+Player3 calls (10)
+Player3 is all-In.
+Player1 calls (10)
+Hero checks
+Creating Main Pot with  30 with Player3
+** Dealing Flop ** :  [ Ts, Qc, Ac ]
+Player1 checks
+Hero checks
+** Dealing Turn ** :  [ Ad ]
+Player1 checks
+Hero checks
+** Dealing River ** :  [ Kh ]
+Player1 checks
+Hero bets (20)
+Player1 folds
+** Summary **
+Main Pot: 30 Side Pot 1: 20
+Board: [ Ts, Qc, Ac, Ad, Kh ]
+Player1 balance 1020, lost 20 (folded)
+Hero balance 480, bet 40, collected 70, net +30[ Jh, 2s ] [ a straight, ten to ace -- Ac,Kh,Qc,Jh,Ts ]
+Player3 balance 0, lost 10[ 8s, 4c ] [ a pair of aces -- Ac,Ad,Kh,Qc,Ts ]
+
+
+***** Hand History For Game 1588378630853vm9yk76epzr *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:16:46 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 3/3
+Seat 1: Player2 (500)
+Seat 2: Hero (490)
+Seat 3: Player1 (510)
+Player1 posts small blind (10)
+Player2 posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 9h, Js ]
+Hero raises 40 to 40
+Player1 raises 500 to 510
+Player1 is all-In.
+Player2 calls (480)
+Player2 is all-In.
+Hero folds
+** Dealing Flop ** :  [ 9d, 5s, Qh ]
+** Dealing Turn ** :  [ 8c ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with  1040 with Player2
+** Summary **
+Main Pot: 1040
+Board: [ 9d, 5s, Qh, 8c, Qs ]
+Player2 balance 1040, bet 500, collected 1040, net +540[ Td, Th ] [ two pairs, queens and tens -- Qh,Qs,Td,Th,9d ]
+Hero balance 450, lost 40 (folded)
+Player1 balance 10, bet 510, collected 10, lost 500[ Ad, 7c ] [ a pair of queens -- Ad,Qh,Qs,9d,8c ]
+
+
+***** Hand History For Game 1588378602588bm5il05cyoh *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267209426) (Buyin $0.23 + $0.02) - Fri May 01 20:16:34 EDT 2020
+Table (267209426) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 3/3
+Seat 1: Player3 (500)
+Seat 2: Hero (500)
+Seat 3: Player2 (500)
+Hero posts small blind (10)
+Player2 posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 6c, 7h ]
+Player3 folds
+Hero folds
+** Summary **
+Main Pot: 20
+Player3 balance 500, didn't bet (folded)
+Hero balance 490, lost 10 (folded)
+Player2 balance 510, bet 20, collected 30, net +10
+
+
+***** Hand History For Game 1588378096154qyu6kk0o3ik *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267208307) (Buyin $0.23 + $0.02) - Fri May 01 20:08:01 EDT 2020
+Table (267208307) Table #1 (Real Money) -- Seat 2 is the button
+Total number of players : 3/3
+Seat 1: Player2 (530)
+Seat 2: Player3 (490)
+Seat 3: Hero (480)
+Hero posts small blind (10)
+Player2 posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 8d, 8s ]
+Player3 folds
+Hero raises 470 to 480
+Hero is all-In.
+Player2 calls (460)
+** Dealing Flop ** :  [ 4s, Ks, 6h ]
+** Dealing Turn ** :  [ 3h ]
+** Dealing River ** :  [ Qs ]
+Creating Main Pot with  960 with Hero
+** Summary **
+Main Pot: 960
+Board: [ 4s, Ks, 6h, 3h, Qs ]
+Player2 balance 1010, bet 480, collected 960, net +480[ 2d, 5s ] [ a straight, two to six -- 6h,5s,4s,3h,2d ]
+Player3 balance 490, didn't bet (folded)
+Hero balance 0, lost 480[ 8d, 8s ] [ a pair of eights -- Ks,Qs,8d,8s,6h ]
+
+
+***** Hand History For Game 1588378077563lefjh7yyrba *****
+10/20 Tourney Texas Holdem Game Table (NL) (SNG JackPot Tournament #267208307) (Buyin $0.23 + $0.02) - Fri May 01 20:07:49 EDT 2020
+Table (267208307) Table #1 (Real Money) -- Seat 1 is the button
+Total number of players : 3/3
+Seat 1: Player3 (500)
+Seat 2: Player1 (500)
+Seat 3: Hero (500)
+Player1 posts small blind (10)
+Hero posts big blind (20)
+** Dealing down cards **
+Dealt to Hero [ 5c, Qh ]
+Player3 raises 500 to 500
+Player3 is all-In.
+Player1 folds
+Hero folds
+Creating Main Pot with  50 with Player3
+** Summary **
+Main Pot: 50
+Player3 balance 530, bet 500, collected 530, net +30
+Player1 balance 490, lost 10 (folded)
+Hero balance 480, lost 20 (folded)
+
