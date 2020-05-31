@@ -13,7 +13,7 @@ nonshowdown = [0]
 allinev = [0]
 conversion = 1 # 0.00043 for 0.23 0.2 rake
 for i in handdb.all():
-    if i["players"] == "3":
+    if True:   # filters
         if i["showdown"] == True:
             showdown.append(showdown[-1] + i["net"]*conversion)
             nonshowdown.append(nonshowdown[-1])
