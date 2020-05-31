@@ -145,7 +145,7 @@ def twohanded_action(hand):
                     line = hand[i].split()
                     for j in range(len(line)-5):
                         if (line[j]).startswith("]"):
-                            enemycards = (line[j-2][:-1], line[j-1])
+                            villaincards = (line[j-2][:-1], line[j-1])
 
                 if hand[i].startswith(hero["name"]):
                     line = hand[i].split()
@@ -156,18 +156,18 @@ def twohanded_action(hand):
                         if (line[j]).startswith("lost"):
                             net = -float(line[j + 1][:-1])
                             result = "loss"
-                        if line[2][:-1] == "0":
+                        if line[2] == "0,":
                             lasthand = True
             if allin == "preflop":
-                eq = holdem_odds(cards[0], cards[1], enemycards[0], enemycards[1], "", "", "", "", "")
+                eq = holdem_odds(cards[0], cards[1], villaincards[0], villaincards[1], "", "", "", "", "")
             elif allin == "flop":
-                eq = holdem_odds(cards[0], cards[1], enemycards[0], enemycards[1], community[0], community[1], community[2], "", "")
+                eq = holdem_odds(cards[0], cards[1], villaincards[0], villaincards[1], community[0], community[1], community[2], "", "")
             elif allin == "turn":
-                eq = holdem_odds(cards[0], cards[1], enemycards[0], enemycards[1], community[0], community[1], community[2], community[3], "")
+                eq = holdem_odds(cards[0], cards[1], villaincards[0], villaincards[1], community[0], community[1], community[2], community[3], "")
             bet = min(float(hero["actions"][-1]["amount"]), float(playerx["actions"][-1]["amount"]))
             allinpot = min(hero["stack"][0], playerx["stack"][0])
             cev = (eq[0]/100)*(allinpot) - (1- (eq[0]/100) - (eq[1]/100) )*float(bet)
-            print(" *** ALL IN *** \n"  +" "+ allin + " bet: " + str(bet) + " pot: " + str(allinpot) + " hero: " + str(cards) + "villain:" + str(enemycards) + "equity:" + str(eq) + "\n*************")
+            print(" *** ALL IN *** \n"  +" "+ allin + " bet: " + str(bet) + " pot: " + str(allinpot) + " hero: " + str(cards) + "villain:" + str(villaincards) + "equity:" + str(eq) + "\n*************")
             print(lasthand, cards, net, showdown, allin, cev, result)
             return (lasthand, cards, net, showdown, allin, cev, result)
 
@@ -186,7 +186,7 @@ def twohanded_action(hand):
                         if (line[j]).startswith("lost"):
                             net = -float(line[j + 1][:-1])
                             result = "loss"
-                        if line[2][:-1] == "0":
+                        if line[2] == "0,":
                             lasthand = True
             print(lasthand, cards, net, showdown, allin, cev, result)
             return (lasthand, cards, net, showdown, allin, cev, result)
@@ -203,8 +203,6 @@ def twohanded_action(hand):
                         if (line[j]).startswith("lost"):
                             net = -float(line[j + 1])
                             result = "loss"
-                        if line[2][:-1] == "0":
-                            lasthand = True
         print(lasthand, cards, net, showdown, allin, cev, result)
         return (lasthand, cards, net, showdown, allin, cev, result)
     # print(hero)
@@ -332,7 +330,7 @@ def threehanded_action(hand):
                     line = hand[i].split()
                     for j in range(len(line) - 5):
                         if (line[j]).startswith("]"):
-                            enemycards = (line[j - 2][:-1], line[j - 1])
+                            villaincards = (line[j - 2][:-1], line[j - 1])
 
                 if hand[i].startswith(hero["name"]):
                     line = hand[i].split()
@@ -343,22 +341,22 @@ def threehanded_action(hand):
                         if (line[j]).startswith("lost"):
                             net = -float(line[j + 1][:-1])
                             result = "loss"
-                        if line[2][:-1] == "0":
+                        if line[2] == "0,":
                             lasthand = True
             if allin == "preflop":
-                eq = holdem_odds(cards[0], cards[1], enemycards[0], enemycards[1], "", "", "", "", "")
+                eq = holdem_odds(cards[0], cards[1], villaincards[0], villaincards[1], "", "", "", "", "")
             elif allin == "flop":
-                eq = holdem_odds(cards[0], cards[1], enemycards[0], enemycards[1], community[0], community[1],
+                eq = holdem_odds(cards[0], cards[1], villaincards[0], villaincards[1], community[0], community[1],
                                  community[2], "", "")
             elif allin == "turn":
-                eq = holdem_odds(cards[0], cards[1], enemycards[0], enemycards[1], community[0], community[1],
+                eq = holdem_odds(cards[0], cards[1], villaincards[0], villaincards[1], community[0], community[1],
                                  community[2], community[3], "")
 
             bet = min(float(hero["actions"][-1]["amount"]), float(villain["actions"][-1]["amount"]))
             allinpot = min(hero["stack"][0], villain["stack"][0])
             cev = (eq[0] / 100) * (allinpot) - (1 - (eq[0] / 100) - (eq[1] / 100)) * float(bet)
             print(" *** ALL IN *** \n" + " " + allin + " bet: " + str(bet) + " pot: " + str(allinpot) + " hero: " + str(
-                cards) + "villain:" + str(enemycards) + "equity:" + str(eq) + "\n*************")
+                cards) + "villain:" + str(villaincards) + "equity:" + str(eq) + "\n*************")
             print(lasthand, cards, net, showdown, allin, cev, result)
             return (lasthand, cards, net, showdown, allin, cev, result)
 
@@ -397,8 +395,6 @@ def threehanded_action(hand):
                         if (line[j]).startswith("didn't"):
                             net = 0
                             result = "even"
-                        if line[2][:-1] == "0":
-                            lasthand = True
 
         print(lasthand, cards, net, showdown, allin, cev, result)
         return (lasthand, cards, net, showdown, allin, cev, result)
@@ -413,9 +409,9 @@ def parse_file(filepath):
 
 def parse_hands(hands):
     handdb = TinyDB("handdb.json") # initialize DB
-    handdb.truncate() # clear entire DB
+    #handdb.truncate() # clear entire DB
     tournamentdb  = TinyDB("tournamentdb.json")
-    tournamentdb.truncate() # clear entire DB
+    #tournamentdb.truncate() # clear entire DB
     for hand in hands:
         newhand = {}
         hand = hand.split("\n")
@@ -448,8 +444,11 @@ def parse_hands(hands):
             elif hand[7].startswith("Hero"):
                 newhand["position"] = "BB"
 
-            lasthand, cards, net, showdown, allin, cev, result = twohanded_action(hand[4:])
-
+            try:
+                lasthand, cards, net, showdown, allin, cev, result = twohanded_action(hand[4:])
+            except:
+                print("error parsing hand ID: "+ newhand["ID"] +  "  ... skipping")
+                continue
         elif newhand["players"] == "3":
             if hand[7].startswith("Hero"):
                 newhand["position"] = "SB"
@@ -458,8 +457,11 @@ def parse_hands(hands):
             else:
                 newhand["position"] = "BU"
 
-            lasthand, cards, net, showdown, allin, cev, result = threehanded_action(hand[4:])
-
+            try:
+                lasthand, cards, net, showdown, allin, cev, result = threehanded_action(hand[4:])
+            except:
+                print("error parsing hand ID: "+ newhand["ID"] +  "  ... skipping")
+                continue
         newhand["cards"] = cards
         newhand["net"] = net
         newhand["showdown"] = showdown
@@ -506,7 +508,7 @@ def parse_hands(hands):
 
 
 start = time.time()
-parse_file("minihandhistory.txt")
+parse_file("may21-may29.txt")
 end = time.time() - start
 print("\ntotal seconds: " + str(end))
 handdb = TinyDB("handdb.json")
